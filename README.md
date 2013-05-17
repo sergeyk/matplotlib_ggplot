@@ -4,7 +4,7 @@ Thanks to the efforts of good people--[messymind.net][mm], [Rob Story][rs], [Huy
 
 Please see the **[example notebook][en]** and `import gg` away.
 
-![](http://raw.github.com/sergeyk/matplotlib_ggplot/master/examples.png)
+![](https://raw.github.com/sergeyk/matplotlib_ggplot/master/examples.png)
 
 [en]: http://nbviewer.ipython.org/urls/raw.github.com/sergeyk/matplotlib_ggplot/master/examples.ipynb
 [mm]: http://messymind.net/2012/07/making-matplotlib-look-like-ggplot/
